@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+statsmodels
+requests
+joblib
+torch
+transformers
+sentence-transformers
+anthropic
+openai
